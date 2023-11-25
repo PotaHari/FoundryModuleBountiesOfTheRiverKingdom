@@ -1,0 +1,38 @@
+{
+  "title": "Bounties of the River Kingdom",
+  "packs": [
+    {
+      "name": "bounties-of-the-river-kingdom",
+      "label": "Bounties of the River Kingdom",
+      "path": "packs/bounties-of-the-river-kingdom",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "the-dirty-dozen",
+      "label": "The Dirty Dozen",
+      "path": "packs/the-dirty-dozen",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "id": "bounties-of-the-river-kingdom",
+  "authors": [
+    {
+      "name": "Kim Lust"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "version": "1.1"
+}
