@@ -1,4 +1,5 @@
 {
+  "id": "bounties-of-the-river-kingdom",
   "title": "Bounties of the River Kingdom",
   "packs": [
     {
@@ -25,7 +26,6 @@
     }
   ],
   "download": "https://github.com/PotaHari/FoundryModuleBountiesOfTheRiverKingdom/archive/refs/heads/main.zip",
-  "id": "bounties-of-the-river-kingdom",
   "authors": [
     {
       "name": "Kim Lust"
