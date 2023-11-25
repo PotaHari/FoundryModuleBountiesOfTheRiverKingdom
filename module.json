@@ -25,6 +25,7 @@
       }
     }
   ],
+  "manifest": "https://raw.githubusercontent.com/PotaHari/FoundryModuleBountiesOfTheRiverKingdom/main/module.json",
   "download": "https://github.com/PotaHari/FoundryModuleBountiesOfTheRiverKingdom/archive/refs/heads/main.zip",
   "authors": [
     {
