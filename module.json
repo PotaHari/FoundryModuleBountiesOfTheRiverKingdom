@@ -9,7 +9,7 @@
       "type": "Actor",
       "system": "pf2e",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
     },
@@ -20,7 +20,7 @@
       "type": "Actor",
       "system": "pf2e",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
     }
