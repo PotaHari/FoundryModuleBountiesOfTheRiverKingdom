@@ -1,3 +1,7 @@
-2023/11/25-18:10:49.493 1cb4 Recovering log #11
-2023/11/25-18:10:49.501 1cb4 Delete type=0 #11
-2023/11/25-18:10:49.501 1cb4 Delete type=3 #10
+2023/11/25-23:31:47.658 2ddc Recovering log #15
+2023/11/25-23:31:47.658 2ddc Level-0 table #17: started
+2023/11/25-23:31:47.661 2ddc Level-0 table #17: 6208 bytes OK
+2023/11/25-23:31:47.669 2ddc Delete type=0 #8
+2023/11/25-23:31:47.669 2ddc Delete type=0 #15
+2023/11/25-23:31:47.669 2ddc Delete type=3 #6
+2023/11/25-23:31:47.669 2ddc Delete type=3 #14
